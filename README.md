@@ -17,7 +17,7 @@ hybridMedio.txt                                             Cut set of length 2 
 
 hybridMedium.txt                                            List of cut sets of length 2 consisting in an exchange reactions and an internal one
 
-# BIBTex
+# Bibtex
 
 @article{guil2022staphylococcus,
   title={Staphylococcus epidermidis RP62A’s Metabolic Network: Validation and Intervention Strategies},
